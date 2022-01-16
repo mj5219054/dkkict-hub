@@ -1,5 +1,10 @@
 # 0x01-项目声明
 红队字典收集整理
+
+* [关开始](https://github.com/mj5219054/dkkict-hub/blob/master/Ctf/README0.md)
+
+* [路上的坑他和解决](https://github.com/mj5219054/dkkict-hub/blob/master/Ctf/README1.md)
+
 ### 2021/12/13
 自己整理的默认凭证、弱用户名、弱口令、弱Web路径价值不大，故删掉，可直接使用如下项目中的字典，等到收集、整理出一个效果不错的字典再发布出来  
 # 0x02-字典项目汇总
