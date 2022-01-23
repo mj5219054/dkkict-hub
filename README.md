@@ -7,8 +7,7 @@
 
 * [DNS](https://github.com/mj5219054/dkkict-hub/blob/master/Ctf/README2.md)
 
-
-* [DNS 总结](https://github.com/mj5219054/dkkict-hub/blob/master/Link/DNS%E5%8E%9F%E7%90%86%E6%80%BB%E7%BB%93%20-%20dashuai%E7%9A%84%E5%8D%9A%E5%AE%A2.mhtml）
+* [DNS 总结](https://github.com/mj5219054/dkkict-hub/tree/master/Link）
 
 
 
