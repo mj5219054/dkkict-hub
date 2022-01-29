@@ -53,8 +53,10 @@ https://github.com/mstxq17/SeCDictionary/
 https://nordpass.com/most-common-passwords-list/  
 https://pastebin.com/LMuD0LGa  
 
-# 密码破解（不保证后门）
-
+# 密码破解（不保证后门，等不将武德也是有的）There is no guarantee of the back door, and there is also a military virtue if you wait)
+ 
+                勤奋是镐，努力是灯        Diligence is a pick, effort is a light
+ 
 * 密码破解工具:
 https://github.com/shinnok/johnny
 
