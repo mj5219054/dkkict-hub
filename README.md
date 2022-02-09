@@ -49,7 +49,7 @@ ctf向 python工具包
 
 
 
-### 2022/1/29 
+### 2022/2/9 
 自己整理的默认凭证、弱用户名、弱口令、弱Web路径价值不大，故删掉，可直接使用如下项目中的字典，等到收集、整理出一个效果不错的字典再发布出来  
 
 信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、在所有攻击结束之后清理并退出战场。
@@ -797,6 +797,16 @@ https://github.com/w3h/icsmaster/tree/master/nse
 https://github.com/OpenNetworkingFoundation/DELTA
 
 
+
+
+
+# 看雪论坛
+* https://www.kanxue.com/chm.htm
+
+
+
+
+
 # 内参白泽文库
 
                                  
@@ -805,6 +815,8 @@ https://github.com/OpenNetworkingFoundation/DELTA
                                                  
                                              悟与净与拙
                                   Enlightenment and Purity and Clumsiness
+
+
 
 
 * https://mitre-attack.github.io/ mitre 科技机构对攻击技术的总结 wiki
