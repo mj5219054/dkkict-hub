@@ -14,7 +14,10 @@
 
 * [为难和被为难的网站](https://github.com/mj5219054/dkkict-hub/blob/master/Ctf/README3.md)
 
-*  [资料总结](https://github.com/mj5219054/RedTeamNotes)
+*  [资料1](https://github.com/mj5219054/RedTeamNotes)
+
+*  * [资料2](https://github.com/mj5219054/HackerMind)
+
 
 # 各类CTF资源
 近年ctf writeup大全:
