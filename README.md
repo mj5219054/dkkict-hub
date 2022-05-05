@@ -62,7 +62,8 @@ ctf向 python工具包
 信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、在所有攻击结束之后清理并退出战场。
 (   菜鸡的吃饭之路，各位大佬手下留情）   The road of eating chicken, you big guys show mercy 
 （人生苦短，咸鱼图个温饱 ）            Life is too short, and the salted fish have enough food 
-
+第二十七条 任何个人和组织不得从事非法侵入他人网络、干扰他人网络正常功能、窃取网络数据等危害网络安全的活动；不得提供专门用于从事侵入网络、干扰网络正常功能及保护措施、窃取网络数据等危害网络安全活动的程序、工具；明知他人从事危害网络安全活动的，不得为其提供技术支持、广告推广、支付结算等帮助。
+Article 27 No individual or organization shall engage in activities that endanger network security such as illegally intruding into other people's networks, interfering with the normal functions of other people's networks, stealing network data, etc.; Network data and other programs and tools that endanger network security activities; those who know that others are engaged in activities endangering network security shall not provide them with assistance such as technical support, advertising promotion, payment and settlement.
 
 
 # 0x02-字典项目汇总
