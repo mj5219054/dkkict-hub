@@ -9,7 +9,7 @@
 
 
 
-* [DNS 总结]( ttps://github.com/mj5219054/dkkict-hub/tree/master/Link  
+* [DNS 总结]( ttps://github.com/mj5219054/dkkict-hub/tree/master/Link)  
 
 
 * [为难和被为难的网站](https://github.com/mj5219054/dkkict-hub/blob/master/Ctf/README3.md)
